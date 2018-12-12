@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Geoi_App</string>
+
+    <string name="texto_boton_cierto">Cierto</string>
+    <string name="texto_boton_falso">Falso</string>
+    <string name="texto_boton_anterior">Anterior</string>
+    <string name="texto_boton_siguiente">Siguiente</string>
+    <string name="texto_correcto">¡Correcto!</string>
+    <string name="texto_incorrecto">¡Incorrecto!</string>
+
+
+    <string name="texto_pregunta1">¿La península de Yucatán está en el norte de México?</string>
+    <string name="texto_pregunta2">Nuestro sistema solar se encuetra en la Vía Váctea.</string>
+    <string name="texto_pregunta3">El océano más grande de nuestro planeta es el Océano Pacifico.</string>
+    <string name="texto_pregunta4">Los vientos alisios soplan del noreste al suroeste.</string>
+    <string name="texto_pregunta5">El Estado más grande de nuestra República Méxicana es Sonora.</string>
+    <string name="texto_boton_ver_respuesta">Ver respuesta</string>
+
+    <string name="texto_aviso">¿Está seguro de lo que hace?</string>
+    <string name="texto_boton_mostrar_respuesta">Mostrar respuesta</string>
+</resources>

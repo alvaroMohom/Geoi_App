@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        android:gravity="center"
+        android:textColor="#2E64FE"
+        android:text="@string/texto_aviso" />
+
+    <TextView
+        android:id="@+id/respuesta_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        android:textColor="58D3F7"
+        android:gravity="center"
+        android:text="" />
+
+    <Button
+        android:id="@+id/boton_mostrar_respuesta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2E64FE"
+        android:text="@string/texto_boton_ver_respuesta" />
+</LinearLayout>
